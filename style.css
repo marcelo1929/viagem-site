@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+.comeco{
+    background-color: darkgray;
+    text-align: center;
+    font-size: 26px
+
+
+}
+.titulo{
+    text-align: center;
+    font-size: 50px;
+    background-color: gray;
+}
+.imagems{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+
+}
+.imagem{
+
+    height: 250px;
+    width: 250px;
+    border: 2px solid black;
+    
+}
